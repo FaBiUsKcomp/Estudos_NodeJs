@@ -1,0 +1,9 @@
+1 - Primeiramente inicializei o arquivo package.json com -> 'npm init -y'
+2 - Instalei o Express usando -> 'npm i --save express@4.16.2 -E'
+3 - Criei a pasta 'src' e o arquivo 'servidor.js' dentro da mesma
+4 - Explicado em 'servidor.js'
+5 - Alterei o 'package.json', arquivo principal (main) para 'servidor.js'
+    e criei o script 'start': nodemon
+6 - Modifiquei o 'servidor.js' importando o arquivo 'bancoDeDados.js'
+7 - Simulei um banco de dados através de um objeto
+8 - Instalei a dependencia 'body-parser' na pasta projeto (formata o body da requisição)
